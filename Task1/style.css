@@ -1,0 +1,121 @@
+.the-grid {
+
+  display: grid;
+
+  grid-template-columns: auto auto auto;
+
+  background-color: #f1cf0d;
+  text-align: center;
+
+}
+
+.grid-item-1 {
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+
+  padding: 60px;
+
+  font-size: 20px;
+
+  text-align: center;
+  width: 622px;
+  height: auto;
+
+
+}
+.grid-item-2{
+
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-3{
+
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-4{
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-5{
+
+ 
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-6{
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-7{
+
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-8{
+
+ 
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-9{
+
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+.grid-item-10{
+
+  border: 3px solid rgba(243, 235, 235, 0.8);
+  padding: 10px;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
